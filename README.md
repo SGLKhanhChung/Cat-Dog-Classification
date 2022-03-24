@@ -1,5 +1,5 @@
 # Cat and Dog Classification
- This project is done while studying Artificial Intelligence Base course at VNUHCM-University of Science. In this proẹct, we learn and build an image classifier from scratch to distinguish cat photos from dog photos.
+ This project is done while studying Artificial Intelligence Base course at VNUHCM-University of Science. In this project, we learn and build an image classifier from scratch to distinguish cat photos from dog photos.
 
 # Tutorials
 - [Beginner-friendly Project Cat and Dog classification using CNN](https://www.analyticsvidhya.com/blog/2021/06/beginner-friendly-project-cat-and-dog-classification-using-cnn/)
